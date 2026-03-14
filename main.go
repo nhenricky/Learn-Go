@@ -2,8 +2,6 @@ package main
 
 import (
 	"fmt"
-
-
 )
 
 var (
@@ -29,5 +27,4 @@ for _, value := range values {
 }
 fmt.Println("Total dos valores:", total)
 
-
- }
+}
